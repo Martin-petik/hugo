@@ -1,4 +1,4 @@
-baseURL = 'https://'
+baseURL = 'https://martin-petik.github.io/hugo/'
 languageCode = 'en'
 title = ''
 theme = "PaperMod"
